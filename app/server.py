@@ -9,7 +9,7 @@ from starlette.middleware.cors import CORSMiddleware
 from starlette.responses import HTMLResponse, JSONResponse
 from starlette.staticfiles import StaticFiles
 
-export_file_url = 'https://drive.google.com/uc?export=download&id=1_FlM7wNC5z0RRD_Zvl_iCvvVGDbllujX'
+export_file_url = 'https://www.dropbox.com/s/6qx9fkgijo6mm5h/export.pkl?dl=1'
 export_file_name = 'export.pkl'
 
 classes = ['Renault Twingo', 'Renault Twingo 2', 'Renault Twingo 3']
